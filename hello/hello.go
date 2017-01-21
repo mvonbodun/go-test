@@ -14,6 +14,7 @@ func main() {
 	fmt.Println("The 5th line")
 	fmt.Println("The 6th line")
 	fmt.Println("The 8th line")
+	fmt.Println("The 9th line")
 	// The 7th line
 	// Next up
 }
