@@ -1,4 +1,4 @@
-cdpackage main
+main
 
 import (
 	"fmt"
